@@ -1,0 +1,1 @@
+(()=>{window.MF_ADS=Object.freeze({enabled:!1,client:"ca-pub-0000000000000000",scriptSrc:"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",slots:{top:"0000000000",sidebar:"0000000000",incontent:"0000000000",results:"0000000000"},showPlaceholders:!0,consentBanner:!0});})();

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /mediaforge/vendor/
+
+Sitemap: https://cinch2108.github.io/mediaforge/sitemap.xml
